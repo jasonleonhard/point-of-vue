@@ -19,7 +19,8 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz",
     "react-navigation": "^2.16.0",
     "vue-native-core": "0.0.8",
-    "vue-native-helper": "0.0.9"
+    "vue-native-helper": "0.0.9",
+    "vue-native-router": "0.0.1-alpha.3"
   },
   "devDependencies": {
     "jest-expo": "30.0.0",
